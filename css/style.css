@@ -1,0 +1,46 @@
+/*Your code goes here*/
+
+body {
+    font-family: 'Roboto';
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 16px;
+}
+.title {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 35px;
+}
+p {
+    font-family: 'Roboto';
+    font-weight: 300;
+}
+.btn-color {
+    background-color: #ff7f50 !important;
+    color: #fff !important;
+}
+.card {
+    background-color: #343A40 !important;
+    color: #fff;
+    border-color: #343A40 !important
+}
+.down-title {
+    font-weight: 400;
+}
+.card-two p {
+    font-weight: 400;
+}
+.card-two img {
+    box-shadow: 0 0 15px #E9E9EA;
+}
+.footer {
+    background-color: #343A40;
+    color: #F8F9FA;
+}
+.footer-h3 {
+    font-size: 20px;
+    font-weight: 300;
+}
