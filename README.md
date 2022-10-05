@@ -1,1 +1,2 @@
-# http://kutia2.nosovnc9.beget.tech/
+https://bohdankutia777.github.io/Games/
+
